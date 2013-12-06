@@ -1,0 +1,9 @@
+{
+  "name": "serialize-svg-path",
+  "repo": "jkroso/serialize-svg-path",
+  "description": "compile svg path data to DOM compatable strings",
+  "keywords": ["svg","path","stringify","serialize","compile"],
+  "dependencies": {},
+  "scripts": ["index.js"],
+  "license": "MIT"
+}

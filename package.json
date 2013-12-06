@@ -1,0 +1,19 @@
+{
+  "name": "serialize-svg-path",
+  "version": "0.1.0",
+  "description": "compile svg path data to DOM compatable strings",
+  "keywords": ["svg","path","stringify","serialize","compile"],
+  "dependencies": {},
+  "devDependencies": {
+    "assert": "jkroso/assert",
+    "serve": "jkroso/serve",
+    "parse-svg-path": "*",
+    "mocha": "*",
+    "jsmd": "*"
+  },
+  "repository": "git://github.com/jkroso/serialize-svg-path.git",
+  "bugs": "https://github.com/jkroso/serialize-svg-path/issues",
+  "author": "Jake Rosoman",
+  "files": ["index.js"],
+  "license": "MIT"
+}
