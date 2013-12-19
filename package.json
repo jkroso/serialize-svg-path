@@ -14,6 +14,6 @@
   "repository": "git://github.com/jkroso/serialize-svg-path.git",
   "bugs": "https://github.com/jkroso/serialize-svg-path/issues",
   "author": "Jake Rosoman",
-  "files": ["index.js"],
+  "files": ["index.js", "bezier.js"],
   "license": "MIT"
 }
